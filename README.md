@@ -1,1 +1,1 @@
-# Artificial NeuralNetworks With NeuroLab And Python
+# Artificial Neural Networks With NeuroLab And Python
